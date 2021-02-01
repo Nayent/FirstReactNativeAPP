@@ -11,7 +11,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: 'Components',
     defaultNavigationOptions: {
-      title: 'First asAPP',
+      title: 'First APP',
     },
   }
 );
